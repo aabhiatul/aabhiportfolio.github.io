@@ -1,0 +1,90 @@
+body
+{
+    
+    background: #ccc;
+}
+#header a:hover
+{
+    color: #fff;
+}
+
+#bg-img
+{
+    background: url('img/img.jpg'); 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    
+}
+.text-muted{
+    padding: 5px;
+}
+#About
+{   
+  
+    margin-top: -200px;
+}
+#text{
+     padding: 3px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+#About .fa
+{
+ color: white;    
+}
+#About span
+{
+    padding: 10px 20px 10px 20px;
+}
+#About hr
+{
+    border-width: 2px;
+    margin-top: 6px;
+}
+#Skills span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Skills hr
+{
+   border-width: 2px;
+    margin-top: 6px;   
+}
+#projects span
+{
+    padding: 10px 20px 10px 20px;
+}
+#Projects hr
+{
+    border-width: 2px;
+    margin-top: 6px;   
+}
+#projects .card
+{
+    border-top: 3px solid #b33939 ;
+}
+#Contact span
+{
+    padding: 10px 20px 10px 20px;   
+}
+#Contact  hr
+{
+    border-width: 2px;
+    margin-top: 6px;  
+}
+footer{
+    background-color: #b33939;
+    
+}
+#iot{
+    font-size: 14px;
+}
+#java{
+  margin-top: 32px;
+}
+
+
+
+         
